@@ -1,9 +1,9 @@
 # Privacy Policy for eyeDoc
 
-**Last Updated:** [Date]
+**Last Updated:** 05/03/2026
 
 ## Introduction
-Vaggelis Stamatakis ("we," "our," or "us") respects your privacy. **eyeDoc** was built with a "privacy-first" philosophy. We do not collect, store, or sell your personal data. All processing related to your breaks, calendar events, and activity status happens locally on your Mac.
+Evangelos Stamatakis ("we," "our," or "us") respects your privacy. **eyeDoc** was built with a "privacy-first" philosophy. We do not collect, store, or sell your personal data. All processing related to your breaks, calendar events, and activity status happens locally on your Mac.
 
 ## Data Collection and Usage
 
@@ -38,4 +38,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-**Email:** [support@vstamatakis.com]
+**Email:** [vstamatakiss@icloud.com]
