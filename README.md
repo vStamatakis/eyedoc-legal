@@ -35,8 +35,3 @@ eyeDoc is built with a strict privacy philosophy.
     *   *Calendar:* To detect meeting times.
     *   *Notifications:* To alert you before a break starts.
 
-## 🚀 Installation & Development
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/YourUsername/eyeDoc.git
